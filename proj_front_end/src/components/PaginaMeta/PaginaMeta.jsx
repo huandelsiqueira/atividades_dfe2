@@ -1,4 +1,4 @@
-import './PaginaMeta.css'
+import './paginaMeta.css'
 
 function PaginaMeta() {
     return (
